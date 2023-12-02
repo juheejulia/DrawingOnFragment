@@ -1,3 +1,5 @@
+// Juhee Kang Johansson
+
 package com.example.drawingonfragment
 
 import androidx.appcompat.app.AppCompatActivity
